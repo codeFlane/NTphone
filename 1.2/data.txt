@@ -1,0 +1,4 @@
+brouser: True
+musicman: False
+lenning: False
+day_and_time: True
