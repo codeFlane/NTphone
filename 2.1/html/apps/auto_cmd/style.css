@@ -1,0 +1,44 @@
+body{
+    color: 000000;
+    font-size: 25px;
+    background: #00FF7F;
+    font-family: consolas;
+}
+
+.mini-content-head{
+    font-size: 30px;
+    padding: 10px;
+    color: #00008B;
+}
+span{
+    color: #8B0000;
+}
+#header{
+    background: #F3B105;
+    height: 200px;
+    width: 1220px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+#content-head-text{
+    font-size: 35px;
+    padding-left: 15px;
+}
+#head-text{
+    font-size: 40px;
+}
+#small{
+    font-size: 20px;
+}
+#content{
+    background: #8181F7;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#ten{
+    color:#2AC2D1;
+    text-shadow: 1px 0 1px rgb(7, 97, 100), 
+        0 1px 1px rgb(7, 97, 100), 
+        -1px 0 1px rgb(7, 97, 100), 
+        0 -1px 1px rgb(7, 97, 100);
