@@ -1,0 +1,23 @@
+print('import system...')
+from os import system
+
+print('import rich...')
+print()
+print()
+system('pip install rich')
+from rich import print
+print()
+print()
+print('[green]import numexpr...')
+print()
+print()
+system('pip install numexpr')
+print()
+print()
+print('[green]import playsound...')
+print()
+print()
+system('pip install playsound')
+print()
+print('Press Enter to continue...')
+input()
