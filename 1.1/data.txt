@@ -1,3 +1,0 @@
-brouser: False
-musicman: True
-lenning: False
